@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>配車管理 UI Preview</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Material+Symbols+Outlined" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="page-head">
+    <h1>配車管理 — UI プレビュー</h1>
+    <p class="hint">タブ・カレンダー日付・カードをタップして動作を確認できます。実機の Compose 実装をそのまま HTML/CSS で再現したモックアップです。</p>
+  </header>
+
+  <div class="devices">
+    <!-- Each phone is a separate "frame" showing one screen variant -->
+    <section class="phone" data-screen="calendar">
+      <div class="phone-frame">
+        <div class="status-bar">
+          <span>9:41</span>
+          <span class="status-icons">
+            <span class="material-symbols-outlined">signal_cellular_alt</span>
+            <span class="material-symbols-outlined">wifi</span>
+            <span class="material-symbols-outlined">battery_full</span>
+          </span>
+        </div>
+        <div class="app-container">
+          <!-- All screens are mounted here -->
+          <div class="screen" data-screen-id="calendar"></div>
+          <div class="screen" data-screen-id="trucks" hidden></div>
+          <div class="screen" data-screen-id="drivers" hidden></div>
+          <div class="screen" data-screen-id="clients" hidden></div>
+          <div class="screen" data-screen-id="assignment-edit" hidden></div>
+          <div class="screen" data-screen-id="truck-edit" hidden></div>
+          <div class="screen" data-screen-id="driver-edit" hidden></div>
+          <div class="screen" data-screen-id="client-edit" hidden></div>
+        </div>
+        <nav class="bottom-nav">
+          <button class="nav-item active" data-nav="calendar">
+            <span class="material-symbols-outlined">calendar_month</span><span>配車</span>
+          </button>
+          <button class="nav-item" data-nav="trucks">
+            <span class="material-symbols-outlined">local_shipping</span><span>車両</span>
+          </button>
+          <button class="nav-item" data-nav="drivers">
+            <span class="material-symbols-outlined">person</span><span>ドライバー</span>
+          </button>
+          <button class="nav-item" data-nav="clients">
+            <span class="material-symbols-outlined">business</span><span>取引先</span>
+          </button>
+        </nav>
+      </div>
+      <div class="phone-label">配車カレンダー / マスタ画面 (タブで切替)</div>
+    </section>
+  </div>
+
+  <footer class="page-foot">
+    <p>このプレビューは UI の見た目と遷移を確認するためのモックアップで、実体は HTML/CSS/JS です。<br/>
+       実 Android アプリのソースは <code>F:\Claude Code\HaikibutsuHaisha\</code> 配下にあります。</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
