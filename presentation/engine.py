@@ -22,8 +22,32 @@ WHITE   = (255, 255, 255)
 LINE    = (205, 222, 212)
 RED     = (185, 70, 60)
 
-FONT_PATH = "/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf"
-FONT_MONO = "/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf"
+_FONT_CANDIDATES = [
+    "/usr/share/fonts/opentype/ipafont-gothic/ipagp.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+    "/System/Library/Fonts/ヒラギノ角ゴシック W3.ttc",
+    "C:/Windows/Fonts/meiryo.ttc",
+]
+_FONT_MONO_CANDIDATES = [
+    "/usr/share/fonts/opentype/ipafont-gothic/ipag.ttf",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
+    "/System/Library/Fonts/Menlo.ttc",
+    "C:/Windows/Fonts/consola.ttf",
+]
+
+
+def _pick_font(env_key, candidates):
+    env_path = os.environ.get(env_key)
+    if env_path and os.path.exists(env_path):
+        return env_path
+    for p in candidates:
+        if os.path.exists(p):
+            return p
+    return None
+
+
+FONT_PATH = _pick_font("PRESENTATION_FONT_PATH", _FONT_CANDIDATES)
+FONT_MONO = _pick_font("PRESENTATION_FONT_MONO_PATH", _FONT_MONO_CANDIDATES)
 
 # IPA Gothic lacks subscript digit glyphs; map them to normal digits.
 SUBMAP = {ord(a): b for a, b in zip("₀₁₂₃₄₅₆₇₈₉", "0123456789")}
@@ -34,7 +58,11 @@ _cache = {}
 def font(size, mono=False):
     key = (size, mono)
     if key not in _cache:
-        _cache[key] = ImageFont.truetype(FONT_MONO if mono else FONT_PATH, size)
+        target = FONT_MONO if mono else FONT_PATH
+        if target:
+            _cache[key] = ImageFont.truetype(target, size)
+        else:
+            _cache[key] = ImageFont.load_default(size=size)
     return _cache[key]
 
 

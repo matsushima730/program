@@ -116,8 +116,9 @@ def render_video(scenes, mp4_path, srt_path, lang):
            "-crf", "20", "-movflags", "+faststart", mp4_path]
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode != 0:
-        print(r.stderr[-2000:])
-        raise RuntimeError("ffmpeg failed for " + mp4_path)
+        err = (r.stderr or "").strip()
+        print(err[-2000:])
+        raise RuntimeError(f"ffmpeg failed for {mp4_path}: {err[-2000:]}")
     return t
 
 
