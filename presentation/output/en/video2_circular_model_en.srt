@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:07,000
+Now, let's look at the circular GX agriculture model — a concept aimed at a demonstration in Angeles City.
+
+2
+00:00:07,000 --> 00:00:18,000
+Today, most of the organic waste from the market goes to landfill, where, as it decomposes, methane is generated.
+
+3
+00:00:18,000 --> 00:00:31,000
+In this model, organic waste from the market is turned into fertilizer by rapid fermentation-drying, delivered to local farms, and produce flows back to the market — a closed loop.
+
+4
+00:00:31,000 --> 00:00:43,000
+For a single market in Angeles City, avoiding landfill methane is estimated to reduce emissions by about two thousand to two thousand three hundred fifty tons of CO2-equivalent per year, based on the IPCC twenty-oh-six guidelines.
+
+5
+00:00:43,000 --> 00:00:54,000
+The organic fertilizer produced is delivered to local farms, helping to reduce dependence on chemical fertilizer and to slow soil degradation.
+
+6
+00:00:54,000 --> 00:01:05,000
+For transport, we use the back-haul of the vehicles that deliver vegetables to the market, widening the supply network while keeping additional cost low.
+
+7
+00:01:05,000 --> 00:01:16,000
+First the FS study fixes the conditions; then a pilot and regional verification, followed by commercial operation and a wider rollout.
+
+8
+00:01:16,000 --> 00:01:23,000
+Waste into a resource, value into agriculture — this is the circular GX agriculture model we aim for.
+
