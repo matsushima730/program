@@ -14,6 +14,7 @@
 | `Video_2026-09-25_RapidFermentationDryingSystem_Infographic_EN.mp4` | 英語版 7分41秒（同上・約60MB） |
 | `Video_2026-09-25_RapidFermentationDryingSystem_Infographic_EN.srt` | 英語字幕 |
 | `contact_sheet_JA.jpg` / `contact_sheet_EN.jpg` | 全18場面の完成状態の一覧（確認用） |
+| `share/*_720p.mp4` | 共有用の 720p 版（各30MB未満・2パス。チャットやメールで送る用。作り方は `src/share.sh`） |
 
 ## ERS 関連で変えたこと
 
