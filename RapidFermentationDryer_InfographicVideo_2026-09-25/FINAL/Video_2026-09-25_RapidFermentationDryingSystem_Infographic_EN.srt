@@ -1,0 +1,514 @@
+﻿1
+00:00:02,000 --> 00:00:07,189
+Food waste, livestock manure and other
+organic waste often contain a lot of water.
+
+2
+00:00:07,779 --> 00:00:13,131
+The Rapid Fermentation and Drying System
+treats this waste inside a sealed vessel,
+
+3
+00:00:13,171 --> 00:00:18,457
+combining drying and fermentation to turn
+it into a dry, easy-to-handle resource.
+
+4
+00:00:19,047 --> 00:00:22,831
+This video explains how the system
+works, the steps of the process,
+
+5
+00:00:22,871 --> 00:00:24,942
+and how the output can be put to use.
+
+6
+00:00:27,700 --> 00:00:31,389
+Left as it is, wet organic
+waste causes several problems.
+
+7
+00:00:31,979 --> 00:00:35,848
+Odors spread, and insects and
+pathogens multiply more easily.
+
+8
+00:00:36,438 --> 00:00:40,283
+Contaminated liquid can seep out
+and pollute soil and waterways.
+
+9
+00:00:40,873 --> 00:00:44,864
+And when it is piled up or landfilled,
+it tends to release methane,
+
+10
+00:00:44,904 --> 00:00:46,308
+a potent greenhouse gas.
+
+11
+00:00:48,867 --> 00:00:53,756
+Methane is produced mainly when organic
+matter breaks down without enough oxygen.
+
+12
+00:00:54,346 --> 00:00:58,012
+Inside a waste pile or a
+landfill, air cannot reach easily.
+
+13
+00:00:58,052 --> 00:01:00,211
+These are exactly those conditions.
+
+14
+00:01:00,801 --> 00:01:04,703
+If the material is mixed and
+exposed to air as it breaks down,
+
+15
+00:01:04,743 --> 00:01:08,263
+what comes out is mainly
+carbon dioxide and water vapor.
+
+16
+00:01:08,853 --> 00:01:14,760
+The Rapid Fermentation and Drying System creates
+these aerobic conditions inside a sealed vessel.
+
+17
+00:01:17,300 --> 00:01:19,435
+First, an overview of the whole process.
+
+18
+00:01:20,025 --> 00:01:23,427
+Organic waste enters the
+system through the feed hopper.
+
+19
+00:01:23,467 --> 00:01:24,964
+Inside the sealed vessel,
+
+20
+00:01:25,004 --> 00:01:28,714
+it is heated and mixed while
+drying and fermentation proceed.
+
+21
+00:01:29,304 --> 00:01:36,618
+The dried output then passes through a rotating screen that
+removes foreign matter and prepares it for use as a resource.
+
+22
+00:01:37,208 --> 00:01:41,182
+Meanwhile, the moisture from the
+waste is drawn off as vapor, cooled,
+
+23
+00:01:41,222 --> 00:01:42,520
+and recovered as water.
+
+24
+00:01:45,067 --> 00:01:47,219
+Two actions sit at the
+heart of the system.
+
+25
+00:01:47,809 --> 00:01:49,532
+The first is removing water.
+
+26
+00:01:49,572 --> 00:01:55,388
+Lowering the pressure inside the vessel lets
+water evaporate at a relatively low temperature.
+
+27
+00:01:55,978 --> 00:01:58,934
+The second is activating
+indigenous microbes,
+
+28
+00:01:58,974 --> 00:02:02,129
+the microorganisms already
+present in the waste.
+
+29
+00:02:02,169 --> 00:02:05,857
+They break down organic matter
+as fermentation proceeds.
+
+30
+00:02:06,447 --> 00:02:10,803
+Combining the two turns wet feedstock
+into a dry product in a short time.
+
+31
+00:02:13,367 --> 00:02:16,100
+Let's take a closer look at
+how reduced pressure helps.
+
+32
+00:02:16,690 --> 00:02:20,591
+The temperature at which water boils
+depends on the surrounding pressure.
+
+33
+00:02:20,631 --> 00:02:23,399
+The lower the pressure, the
+lower the boiling point.
+
+34
+00:02:23,989 --> 00:02:29,295
+It is the same reason water boils below
+100 degrees Celsius on a high mountain.
+
+35
+00:02:29,885 --> 00:02:32,039
+By reducing the pressure in the vessel,
+
+36
+00:02:32,079 --> 00:02:36,146
+the system removes moisture efficiently
+without overheating the material.
+
+37
+00:02:38,700 --> 00:02:42,189
+The main unit is a sealed,
+horizontal processing vessel.
+
+38
+00:02:42,779 --> 00:02:47,487
+In one typical configuration, heat
+reaches the material through three paths:
+
+39
+00:02:47,527 --> 00:02:50,735
+a jacket around the vessel,
+a hollow rotating shaft,
+
+40
+00:02:50,775 --> 00:02:52,859
+and the mixing paddles themselves.
+
+41
+00:02:53,449 --> 00:02:56,954
+Spiral paddles keep the material
+circulating through the vessel,
+
+42
+00:02:56,994 --> 00:02:59,003
+evening out temperature and moisture.
+
+43
+00:02:59,593 --> 00:03:05,127
+The vapor that is released is drawn out from the
+top of the vessel and sent on to the recovery stage.
+
+44
+00:03:07,700 --> 00:03:10,764
+Operation is divided
+into three main stages.
+
+45
+00:03:11,354 --> 00:03:12,393
+In the first stage,
+
+46
+00:03:12,433 --> 00:03:16,254
+the vessel is depressurized to
+reduce the moisture in the feedstock.
+
+47
+00:03:16,844 --> 00:03:17,982
+In the second stage,
+
+48
+00:03:18,022 --> 00:03:23,754
+outside air is brought in so that microbes can
+break down the organic matter through fermentation.
+
+49
+00:03:24,344 --> 00:03:27,850
+Finally, the pressure is lowered
+again for a finishing dry,
+
+50
+00:03:27,890 --> 00:03:30,735
+and the material is
+discharged as a dry product.
+
+51
+00:03:31,325 --> 00:03:35,036
+The time and temperature of each
+stage are set for each project,
+
+52
+00:03:35,076 --> 00:03:37,497
+based on the type and amount of feedstock.
+
+53
+00:03:40,067 --> 00:03:42,559
+So what happens to the water
+taken out of the waste?
+
+54
+00:03:43,149 --> 00:03:47,958
+Vapor drawn from the vessel is cooled in
+a condenser and turns back into water.
+
+55
+00:03:48,548 --> 00:03:52,275
+A gas-liquid separator then splits
+the flow into water and air,
+
+56
+00:03:52,315 --> 00:03:55,026
+and the water is collected
+as recovered water.
+
+57
+00:03:55,616 --> 00:03:59,974
+How far the recovered water and heat
+can be reused is studied for each site,
+
+58
+00:04:00,014 --> 00:04:01,479
+based on local conditions.
+
+59
+00:04:04,033 --> 00:04:06,497
+Odor control is built into the same flow.
+
+60
+00:04:07,087 --> 00:04:11,716
+The vessel stays sealed during treatment,
+so odorous air does not easily escape.
+
+61
+00:04:12,306 --> 00:04:16,205
+Vapor passes through condensation
+and gas-liquid separation,
+
+62
+00:04:16,245 --> 00:04:21,852
+and the remaining air is deodorized by
+filtration before it is drawn out and released.
+
+63
+00:04:22,442 --> 00:04:24,462
+Compared with piling waste outdoors,
+
+64
+00:04:24,502 --> 00:04:27,208
+this design makes it
+harder for odors to spread.
+
+65
+00:04:29,767 --> 00:04:34,128
+Because treatment takes place in a sealed
+vessel, it is clear where everything goes.
+
+66
+00:04:34,718 --> 00:04:36,135
+There are three outlets:
+
+67
+00:04:36,175 --> 00:04:39,169
+the dried product, water
+recovered from the vapor,
+
+68
+00:04:39,209 --> 00:04:42,204
+and exhaust air that is
+deodorized before release.
+
+69
+00:04:42,794 --> 00:04:46,548
+The share of each depends on the
+moisture content and type of feedstock.
+
+70
+00:04:47,138 --> 00:04:51,725
+With only a few outlets, quantities and
+quality are easy to measure and record,
+
+71
+00:04:51,765 --> 00:04:53,072
+which helps management.
+
+72
+00:04:55,633 --> 00:04:58,992
+Five indicators are monitored
+to keep operation stable.
+
+73
+00:04:59,582 --> 00:05:03,437
+Temperature, pressure, moisture, odor,
+and the condition of the product.
+
+74
+00:05:04,027 --> 00:05:07,345
+Samples of the product are
+taken, analyzed and recorded,
+
+75
+00:05:07,385 --> 00:05:11,963
+and the results are used to judge whether
+the quality suits its intended use.
+
+76
+00:05:14,533 --> 00:05:18,401
+Candidate feedstocks cover a
+wide range of organic waste:
+
+77
+00:05:18,441 --> 00:05:22,652
+food waste and food residues,
+livestock manure, crop residues,
+
+78
+00:05:22,692 --> 00:05:24,915
+and vegetable waste from markets.
+
+79
+00:05:25,505 --> 00:05:30,487
+Possible uses for the product include
+organic fertilizer and soil conditioner,
+
+80
+00:05:30,527 --> 00:05:34,285
+as well as animal bedding,
+animal feed, and fuel feedstock.
+
+81
+00:05:34,875 --> 00:05:38,630
+Which feedstocks can be accepted,
+and where the product can be used,
+
+82
+00:05:38,670 --> 00:05:42,090
+is confirmed through quality
+testing and local laws and rules.
+
+83
+00:05:44,633 --> 00:05:49,826
+Returning the product to local farmland as
+organic fertilizer creates a resource loop.
+
+84
+00:05:50,416 --> 00:05:51,922
+Organic waste from homes,
+
+85
+00:05:51,962 --> 00:05:57,180
+markets and farms becomes a resource in the
+system and is used to build healthy soil,
+
+86
+00:05:57,220 --> 00:06:00,396
+and the crops grown there
+return to people's tables.
+
+87
+00:06:00,986 --> 00:06:06,204
+What used to be disposed of as waste becomes a
+resource that circulates within the community.
+
+88
+00:06:08,767 --> 00:06:13,947
+Greenhouse gas reductions are evaluated
+by first deciding exactly what to count.
+
+89
+00:06:14,537 --> 00:06:17,576
+The boundary runs from where
+the waste is generated,
+
+90
+00:06:17,616 --> 00:06:21,839
+through transport and treatment in
+the system, to its use as a resource.
+
+91
+00:06:22,429 --> 00:06:28,051
+Emissions from transport fuel and from the
+electricity and heat used in treatment are added up,
+
+92
+00:06:28,091 --> 00:06:33,832
+and compared with the methane that landfilling or
+similar disposal would otherwise have released.
+
+93
+00:06:34,422 --> 00:06:38,713
+The actual reduction is calculated
+for each project within this boundary.
+
+94
+00:06:41,267 --> 00:06:43,393
+This system creates two kinds of value.
+
+95
+00:06:43,983 --> 00:06:46,051
+The first is taking on waste treatment,
+
+96
+00:06:46,091 --> 00:06:49,025
+which eases the burden on
+those who generate the waste.
+
+97
+00:06:49,615 --> 00:06:54,104
+The second is delivering the product as
+a resource, such as organic fertilizer.
+
+98
+00:06:54,694 --> 00:06:57,256
+With treatment and
+resources as two pillars,
+
+99
+00:06:57,296 --> 00:07:00,509
+the aim is a model that can
+be sustained as a business.
+
+100
+00:07:03,067 --> 00:07:06,304
+Many stakeholders are involved
+in putting the system to work.
+
+101
+00:07:06,894 --> 00:07:11,655
+Households, markets, food factories and
+livestock farms that generate waste;
+
+102
+00:07:11,695 --> 00:07:14,561
+the local government
+that supports the scheme;
+
+103
+00:07:14,601 --> 00:07:16,709
+the operator that runs the system;
+
+104
+00:07:16,749 --> 00:07:20,121
+and the farmers and local
+users who use the resources.
+
+105
+00:07:20,711 --> 00:07:22,118
+With each playing its part,
+
+106
+00:07:22,158 --> 00:07:26,084
+waste treatment and resource use are
+linked together within the community.
+
+107
+00:07:28,733 --> 00:07:35,464
+The Rapid Fermentation and Drying System turns organic
+waste into resources that communities can put to use.
+
+108
+00:07:36,054 --> 00:07:37,257
+Thank you for watching.
