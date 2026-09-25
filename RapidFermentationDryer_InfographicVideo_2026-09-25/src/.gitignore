@@ -1,0 +1,4 @@
+build/
+models/
+web/*.ttf
+__pycache__/
